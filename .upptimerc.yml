@@ -3,8 +3,8 @@ owner: loveibora # Your GitHub organization or username, where this repository l
 repo: test # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: naver
+    url: https://www.naver.com
   - name: smartsearch
     url: https://smartsearch.kosha.or.kr
 
