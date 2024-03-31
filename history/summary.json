@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 885,
-    "timeDay": 639,
-    "timeWeek": 731,
-    "timeMonth": 819,
+    "timeDay": 1177,
+    "timeWeek": 808,
+    "timeMonth": 831,
     "timeYear": 885,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartsearch.kosha.or.kr.ico",
     "slug": "smartsearch",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
     "time": 1610,
-    "timeDay": 1808,
-    "timeWeek": 1853,
-    "timeMonth": 1868,
-    "timeYear": 1610,
+    "timeDay": 1766,
+    "timeWeek": 1855,
+    "timeMonth": 1864,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2023-10-28": 493,
       "2023-10-27": 51,
@@ -40,8 +40,7 @@
       "2023-06-03": 251,
       "2023-06-02": 868,
       "2023-04-03": 418,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   }
 ]
