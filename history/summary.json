@@ -4,18 +4,20 @@
     "url": "https://www.naver.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.naver.com.ico",
     "slug": "naver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 874,
-    "timeWeek": 874,
-    "timeMonth": 1073,
-    "timeYear": 899,
-    "dailyMinutesDown": {}
+    "time": 911,
+    "timeDay": 4337,
+    "timeWeek": 1740,
+    "timeMonth": 1290,
+    "timeYear": 918,
+    "dailyMinutesDown": {
+      "2024-10-07": 0
+    }
   },
   {
     "name": "smartsearch",
