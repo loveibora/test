@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 988,
-    "timeWeek": 1014,
-    "timeMonth": 978,
-    "timeYear": 918,
+    "timeDay": 861,
+    "timeWeek": 1010,
+    "timeMonth": 973,
+    "timeYear": 916,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "smartsearch",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1717,
-    "timeDay": 1607,
-    "timeWeek": 1659,
-    "timeMonth": 1725,
-    "timeYear": 1746,
+    "timeDay": 1667,
+    "timeWeek": 1653,
+    "timeMonth": 1716,
+    "timeYear": 1745,
     "dailyMinutesDown": {
-      "2024-11-13": 9,
       "2024-07-29": 18
     }
   }
