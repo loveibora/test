@@ -4,7 +4,7 @@
     "url": "https://www.naver.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.naver.com.ico",
     "slug": "naver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 990,
     "timeMonth": 1013,
     "timeYear": 921,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 0
+    }
   },
   {
     "name": "smartsearch",
