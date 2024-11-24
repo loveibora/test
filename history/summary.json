@@ -6,18 +6,16 @@
     "slug": "naver",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 923,
-    "timeDay": 723,
-    "timeWeek": 949,
-    "timeMonth": 1002,
-    "timeYear": 921,
-    "dailyMinutesDown": {
-      "2024-11-23": 9
-    }
+    "time": 924,
+    "timeDay": 971,
+    "timeWeek": 977,
+    "timeMonth": 1006,
+    "timeYear": 922,
+    "dailyMinutesDown": {}
   },
   {
     "name": "smartsearch",
@@ -25,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartsearch.kosha.or.kr.ico",
     "slug": "smartsearch",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1724,
-    "timeDay": 2024,
-    "timeWeek": 1843,
-    "timeMonth": 1719,
+    "timeDay": 1645,
+    "timeWeek": 1792,
+    "timeMonth": 1726,
     "timeYear": 1755,
     "dailyMinutesDown": {
       "2024-07-29": 18
