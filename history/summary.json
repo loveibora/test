@@ -22,18 +22,19 @@
     "url": "https://smartsearch.kosha.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/smartsearch.kosha.or.kr.ico",
     "slug": "smartsearch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1729,
+    "time": 1731,
     "timeDay": 1641,
     "timeWeek": 1794,
     "timeMonth": 1761,
     "timeYear": 1763,
     "dailyMinutesDown": {
+      "2024-12-02": 0,
       "2024-07-29": 18
     }
   }
