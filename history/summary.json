@@ -29,14 +29,14 @@
     "url": "https://smartsearch.kosha.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/smartsearch.kosha.or.kr.ico",
     "slug": "smartsearch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "98.04%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.20%",
-    "time": 1689,
-    "timeDay": 1511,
+    "time": 1688,
+    "timeDay": 1777,
     "timeWeek": 1621,
     "timeMonth": 1675,
     "timeYear": 1684,
@@ -55,7 +55,8 @@
       "2026-03-07": 515,
       "2026-06-27": 74,
       "2026-07-05": 66,
-      "2026-08-09": 28
+      "2026-08-09": 28,
+      "2026-08-10": 0
     }
   }
 ]
